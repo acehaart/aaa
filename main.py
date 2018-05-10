@@ -1,6 +1,8 @@
 #!/user/bin/python3
 def main(msg):
-    print(msg)
+    #//adding sharma shukla
+        print(msg)
+
 
 main ("hello Dickboy")
 

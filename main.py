@@ -1,4 +1,6 @@
 #!/user/bin/python3
+def main(msg):
+    print(msg)
 
-print ("hello ohad")
+main ("hello Dickboy")
 
